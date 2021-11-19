@@ -1,0 +1,14 @@
+.list {
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}

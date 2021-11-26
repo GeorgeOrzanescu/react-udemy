@@ -7,3 +7,4 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux/
   3. Module 12 (how React works in the background)
   4. Module 13 (class based components)
   5. Module 14 (sending Http Requests)
+  6. Module 15 (custom hooks)
